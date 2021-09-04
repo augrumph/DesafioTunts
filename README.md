@@ -1,5 +1,4 @@
-# DesafioTunts
-Code challenge 
+
 
 1- Download the xlsx file and save it in your desktop.
 
